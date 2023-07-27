@@ -182,6 +182,10 @@ Supported Modsets
       - Sahrani
       - Takistan
 
+      Available maps with `CUP Terrains - Maps 2.0 <https://steamcommunity.com/workshop/filedetails/?id=1981964169>`_:
+
+      - Chernarus 2020
+
       Single maps with their own required mods:
 
       - `Anizay <https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181>`_
